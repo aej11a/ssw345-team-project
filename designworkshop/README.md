@@ -7,4 +7,5 @@ b. This is a problem worth solving because procrastination and other factors tha
  
 3.
 a. The core product idea is a Chrome extension which would monitor users’ activity, automatically set timers to plan their work, block distracting notifications and sites, periodically remind users to focus, and notifying the other members of the group if a specific member is falling behind.
+
 b. Useful design patterns could include a timer, content-blocker, alert system, hyperlinks to motivational videos, and an interactor/observer.
